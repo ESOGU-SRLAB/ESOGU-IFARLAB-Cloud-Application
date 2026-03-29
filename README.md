@@ -1,5 +1,7 @@
 # System Architecture and Project Structure
 
+![Cloud Platform Preview](meshes/cloud_platform.gif)
+
 ![System Architecture](meshes/system_architecture.png)
 
 This document explains the general architecture of the system, server structures, and the communication between sub-components.
