@@ -1,6 +1,6 @@
 # System Architecture and Project Structure
 
-![System Architecture](build/meshes/system_architecture.png)
+![System Architecture](meshes/system_architecture.png)
 
 This document explains the general architecture of the system, server structures, and the communication between sub-components.
 
