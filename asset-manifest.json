@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/ESOGU-IFARLAB-Cloud-Application/static/css/main.67d0a285.css",
-    "main.js": "/ESOGU-IFARLAB-Cloud-Application/static/js/main.2ee24e06.js",
+    "main.css": "/ESOGU-IFARLAB-Cloud-Application/static/css/main.6d014517.css",
+    "main.js": "/ESOGU-IFARLAB-Cloud-Application/static/js/main.f4289cc4.js",
     "index.html": "/ESOGU-IFARLAB-Cloud-Application/index.html"
   },
   "entrypoints": [
-    "static/css/main.67d0a285.css",
-    "static/js/main.2ee24e06.js"
+    "static/css/main.6d014517.css",
+    "static/js/main.f4289cc4.js"
   ]
 }
